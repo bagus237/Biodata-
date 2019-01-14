@@ -13,7 +13,7 @@
  <table>
  <tr>
  <td>Nama :</td>
- <td>Kevin Moses Kenap</td>
+ <td>Muhamad Bagus Kurniawan</td>
  </tr>
  <tr>
  <td>Tempat/Tanggal Lahir :</td>
